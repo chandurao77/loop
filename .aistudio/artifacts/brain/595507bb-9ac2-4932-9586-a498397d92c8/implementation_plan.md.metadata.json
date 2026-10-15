@@ -1,0 +1,6 @@
+{
+  "summary": "Complete implementation plan for the WHOOP-equivalent health & athletic biometric monitoring web app, featuring Strain (0-21 Borg scale), Recovery percentage (HRV, RHR, respiratory rate), Sleep Coach (stages, sleep debt, circadian window), Live Heart Rate sensor simulation, workout logging, and health journal.",
+  "updatedAt": "2026-10-15T23:00:47.729161142Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "WHOOP Biometrics",
+  "description": "Athletic health and biometric tracking application monitoring Strain, Recovery, and Sleep with live HRV and heart rate telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
